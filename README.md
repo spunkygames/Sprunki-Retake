@@ -1,6 +1,6 @@
 # Sprunki Retake
 
-Sprunki Retake is a free online rhythm and music game where you create unique beats by strategically placing characters on a stage. Experiment with different combinations, unlock new sounds, and share your musical creations with the world! Play Sprunki Retake Now: [https://spunky.games/sprunki-retake](https://spunky.games/sprunki-retake)
+Sprunki Retake is a free online rhythm and music game where you create unique beats by strategically placing characters on a stage. Experiment with different combinations, unlock new sounds, and share your musical creations with the world! Play [sprunki-retake](https://spunky.games/sprunki-retake)
 
 ---
 
@@ -21,7 +21,7 @@ Sprunki Retake is a browser-based music game designed to be both fun and creativ
 
 ## How to Play Sprunki Retake
 
-1. **Access the Game:** Go to [https://spunky.games/sprunki-retake](https://spunky.games/sprunki-retake) to play directly in your web browser.
+1. **Access the Game:** Go to sprunki-retake to play directly in your web browser.
 2. **Position Your Characters:** Drag and drop the Sprunki characters onto the designated areas on the stage. Each character represents a distinct musical element or loop.
 3. **Experiment with Combinations:** Try placing different characters in various positions to discover new sound combinations and build your rhythm.
 4. **Record Your Track:** Once you've crafted a beat you like, use the in-game recording feature to save your composition.
@@ -57,11 +57,11 @@ Sprunki Retake is a browser-based music game designed to be both fun and creativ
 5. **Can I save my musical creations?**  Yes, saving options are available, possibly through local storage or online accounts (check in-game).
 6. **Are there different levels or stages in Sprunki Retake?** Progression might involve unlocking content; check the game for specifics.
 7. **What inspired the creation of Sprunki Retake?** It draws inspiration from rhythm and music creation games.  For a similar experience, check out [Sprunki InCredibox](https://sprunki.es/).
-8. **Where can I find more information about Spunky Games?** Visit the official Spunky Games website: [https://spunky.games](https://spunky.games). You can also explore other Spunky Games like [ESprunki Game](https://esprunki.com/).
+8. **Where can I find more information about Spunky Games?** Visit the official Spunky Games website: [spunky.games](https://spunky.games). You can also explore other Spunky Games like [ESprunki Game](https://esprunki.com/).
 9. **Is there a mobile app version of Sprunki Retake?**  It's primarily browser-based, playable on most mobile browsers.
 10. **How can I contact the developers of Sprunki Retake?** Look for contact information on the game's website or related Spunky Games resources.
 
 
 ---
 
-Ready to retake the rhythm? Play Sprunki Retake now! [https://spunky.games/sprunki-retake](https://spunky.games/sprunki-retake)
+Ready to retake the rhythm? Play Sprunki Retake now! 
